@@ -7,9 +7,7 @@ import Metadata from "@/lib/metadata";
 
 import { formatPageTitle} from "@/lib/utils";
 
-export const metadata = {
-    title: formatPageTitle("Ränge")
-}
+
 
 export default function RanksPage() {
     return (
